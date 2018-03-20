@@ -1,0 +1,5 @@
+createWorlflow(){
+	node(){
+		println "project 1 jenkins file"
+	}
+}
